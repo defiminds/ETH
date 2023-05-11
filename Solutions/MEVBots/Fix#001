@@ -1,0 +1,4 @@
+#MEVBot
+#Ethereum 
+To reduce the activity of MEV Bots and protect the contracts is necessary that each contract have the function of EIP PayMaster described in
+EIP-3074 by Alex Beregszaszi and Samuel Brooks in September 2020
